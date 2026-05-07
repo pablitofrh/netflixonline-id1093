@@ -1,0 +1,1555 @@
+.flag {
+display: flex;
+flex-direction: column;
+align-items: start;
+justify-content: center;
+}
+.bf-flag {
+    background-image: url(../images/flag-sprite-v5.png);
+    background-repeat: no-repeat;
+    display: block;
+    height:100%;
+    width: 100%;
+}
+
+.bf-flag.bf-flag-ad {
+    background-position: -5px -5px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-ae {
+    background-position: -5px -26px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-af {
+    background-position: -5px -47px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-ag {
+    background-position: -5px -68px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-ai {
+    background-position: -5px -89px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-al {
+    background-position: -5px -110px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-am {
+    background-position: -5px -131px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-an {
+    background-position: -5px -152px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-ao {
+    background-position: -5px -173px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-ar {
+    background-position: -5px -194px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-as {
+    background-position: -5px -215px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-at {
+    background-position: -5px -236px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-au {
+    background-position: -5px -257px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-aw {
+    background-position: -5px -278px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-ax {
+    background-position: -5px -299px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-az {
+    background-position: -5px -320px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-ba {
+    background-position: -5px -341px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-bb {
+    background-position: -5px -362px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-bd {
+    background-position: -5px -383px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-be {
+    background-position: -5px -404px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-bf {
+    background-position: -5px -425px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-bg {
+    background-position: -5px -446px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-bh {
+    background-position: -5px -467px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-bi {
+    background-position: -5px -488px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-bj {
+    background-position: -5px -509px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-bl {
+    background-position: -5px -530px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-bm {
+    background-position: -5px -551px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-bn {
+    background-position: -5px -572px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-bo {
+    background-position: -5px -593px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-bq {
+    background-position: -5px -614px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-br {
+    background-position: -5px -635px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-bs {
+    background-position: -5px -656px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-bt {
+    background-position: -5px -677px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-bv {
+    background-position: -5px -698px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-bw {
+    background-position: -5px -719px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-by {
+    background-position: -5px -740px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-bz {
+    background-position: -5px -761px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-ca {
+    background-position: -5px -782px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-catalonia {
+    background-position: -5px -803px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-cc {
+    background-position: -5px -824px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-cd {
+    background-position: -5px -845px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-cf {
+    background-position: -5px -866px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-cg {
+    background-position: -5px -887px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-ch {
+    background-position: -5px -908px;
+    height: 11px;
+    width: 11px
+}
+
+.bf-flag.bf-flag-ci {
+    background-position: -5px -929px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-ck {
+    background-position: -5px -950px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-cl {
+    background-position: -5px -971px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-cm {
+    background-position: -5px -992px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-cn {
+    background-position: -5px -1013px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-co {
+    background-position: -5px -1034px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-cr {
+    background-position: -5px -1055px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-cs {
+    background-position: -5px -1076px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-cu {
+    background-position: -5px -1097px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-cv {
+    background-position: -5px -1118px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-cw {
+    background-position: -5px -1139px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-cx {
+    background-position: -5px -1160px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-cy {
+    background-position: -5px -1181px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-cz {
+    background-position: -5px -1202px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-de {
+    background-position: -5px -1223px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-dj {
+    background-position: -5px -1244px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-dk {
+    background-position: -5px -1265px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-dm {
+    background-position: -5px -1286px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-do {
+    background-position: -5px -1307px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-dz {
+    background-position: -5px -1328px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-ec {
+    background-position: -5px -1349px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-ee {
+    background-position: -5px -1370px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-eg {
+    background-position: -5px -1391px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-eh {
+    background-position: -5px -1412px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-england {
+    background-position: -5px -1433px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-er {
+    background-position: -5px -1454px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-es {
+    background-position: -5px -1475px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-et {
+    background-position: -5px -1496px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-europeanunion {
+    background-position: -5px -1517px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-fam {
+    background-position: -5px -1538px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-fi {
+    background-position: -5px -1559px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-fj {
+    background-position: -5px -1580px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-fk {
+    background-position: -5px -1601px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-fm {
+    background-position: -5px -1622px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-fo {
+    background-position: -5px -1643px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-fr {
+    background-position: -5px -1664px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-ga {
+    background-position: -5px -1685px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-gb {
+    background-position: -5px -1706px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-gd {
+    background-position: -5px -1727px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-ge {
+    background-position: -5px -1748px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-gf {
+    background-position: -5px -1769px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-gg {
+    background-position: -5px -1790px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-gh {
+    background-position: -5px -1811px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-gi {
+    background-position: -5px -1832px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-gl {
+    background-position: -5px -1853px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-gm {
+    background-position: -5px -1874px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-gn {
+    background-position: -5px -1895px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-gp {
+    background-position: -5px -1916px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-gq {
+    background-position: -5px -1937px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-gr {
+    background-position: -5px -1958px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-gs {
+    background-position: -5px -1979px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-gt {
+    background-position: -5px -2000px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-gu {
+    background-position: -5px -2021px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-gw {
+    background-position: -5px -2042px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-gy {
+    background-position: -5px -2063px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-hk {
+    background-position: -5px -2084px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-hm {
+    background-position: -5px -2105px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-hn {
+    background-position: -5px -2126px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-hr {
+    background-position: -5px -2147px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-ht {
+    background-position: -5px -2168px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-hu {
+    background-position: -5px -2189px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-id {
+    background-position: -5px -2210px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-ie {
+    background-position: -5px -2231px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-il {
+    background-position: -5px -2252px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-im {
+    background-position: -5px -2273px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-in {
+    background-position: -5px -2294px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-io {
+    background-position: -5px -2315px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-iq {
+    background-position: -5px -2336px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-ir {
+    background-position: -5px -2357px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-is {
+    background-position: -5px -2378px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-it {
+    background-position: -5px -2399px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-je {
+    background-position: -5px -2420px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-jm {
+    background-position: -5px -2441px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-jo {
+    background-position: -5px -2462px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-jp {
+    background-position: -5px -2483px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-ke {
+    background-position: -5px -2504px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-kg {
+    background-position: -5px -2525px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-kh {
+    background-position: -5px -2546px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-ki {
+    background-position: -5px -2567px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-km {
+    background-position: -5px -2588px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-kn {
+    background-position: -5px -2609px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-kp {
+    background-position: -5px -2630px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-kr {
+    background-position: -5px -2651px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-kw {
+    background-position: -5px -2672px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-ky {
+    background-position: -5px -2693px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-kz {
+    background-position: -5px -2714px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-la {
+    background-position: -5px -2735px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-lb {
+    background-position: -5px -2756px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-lc {
+    background-position: -5px -2777px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-li {
+    background-position: -5px -2798px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-lk {
+    background-position: -5px -2819px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-lr {
+    background-position: -5px -2840px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-ls {
+    background-position: -5px -2861px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-lt {
+    background-position: -5px -2882px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-lu {
+    background-position: -5px -2903px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-lv {
+    background-position: -5px -2924px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-ly {
+    background-position: -5px -2945px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-ma {
+    background-position: -5px -2966px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-mc {
+    background-position: -5px -2987px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-md {
+    background-position: -5px -3008px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-me {
+    background-position: -5px -3029px;
+    height: 12px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-mf {
+    background-position: -5px -3051px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-mg {
+    background-position: -5px -3072px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-mh {
+    background-position: -5px -3093px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-mk {
+    background-position: -5px -3114px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-ml {
+    background-position: -5px -3135px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-mm {
+    background-position: -5px -3156px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-mn {
+    background-position: -5px -3177px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-mo {
+    background-position: -5px -3198px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-mp {
+    background-position: -5px -3219px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-mq {
+    background-position: -5px -3240px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-mr {
+    background-position: -5px -3261px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-ms {
+    background-position: -5px -3282px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-mt {
+    background-position: -5px -3303px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-mu {
+    background-position: -5px -3324px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-mv {
+    background-position: -5px -3345px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-mw {
+    background-position: -5px -3366px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-mx {
+    background-position: -5px -3387px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-my {
+    background-position: -5px -3408px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-mz {
+    background-position: -5px -3429px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-na {
+    background-position: -5px -3450px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-nc {
+    background-position: -5px -3471px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-ne {
+    background-position: -5px -3492px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-nf {
+    background-position: -5px -3513px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-ng {
+    background-position: -5px -3534px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-ni {
+    background-position: -5px -3555px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-nl {
+    background-position: -5px -3576px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-no {
+    background-position: -5px -3597px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-np {
+    background-position: -5px -3618px;
+    height: 11px;
+    width: 9px
+}
+
+.bf-flag.bf-flag-nr {
+    background-position: -5px -3639px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-nu {
+    background-position: -5px -3660px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-nz {
+    background-position: -5px -3681px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-om {
+    background-position: -5px -3702px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-pa {
+    background-position: -5px -3723px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-pe {
+    background-position: -5px -3744px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-pf {
+    background-position: -5px -3765px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-pg {
+    background-position: -5px -3786px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-ph {
+    background-position: -5px -3807px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-pk {
+    background-position: -5px -3828px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-pl {
+    background-position: -5px -3849px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-pm {
+    background-position: -5px -3870px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-pn {
+    background-position: -5px -3891px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-pr {
+    background-position: -5px -3912px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-ps {
+    background-position: -5px -3933px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-pt {
+    background-position: -5px -3954px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-pw {
+    background-position: -5px -3975px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-py {
+    background-position: -5px -3996px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-qa {
+    background-position: -5px -4017px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-re {
+    background-position: -5px -4038px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-ro {
+    background-position: -5px -4059px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-rs {
+    background-position: -5px -4080px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-ru {
+    background-position: -5px -4101px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-rw {
+    background-position: -5px -4122px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-sa {
+    background-position: -5px -4143px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-sb {
+    background-position: -5px -4164px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-sc {
+    background-position: -5px -4185px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-scotland {
+    background-position: -5px -4206px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-sd {
+    background-position: -5px -4227px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-se {
+    background-position: -5px -4248px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-sg {
+    background-position: -5px -4269px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-sh {
+    background-position: -5px -4290px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-si {
+    background-position: -5px -4311px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-sj {
+    background-position: -5px -4332px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-sk {
+    background-position: -5px -4353px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-sl {
+    background-position: -5px -4374px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-sm {
+    background-position: -5px -4395px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-sn {
+    background-position: -5px -4416px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-so {
+    background-position: -5px -4437px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-sr {
+    background-position: -5px -4458px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-ss {
+    background-position: -5px -4479px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-st {
+    background-position: -5px -4500px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-sv {
+    background-position: -5px -4521px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-sx {
+    background-position: -5px -4542px;
+    height: 11px;
+    width: 15px
+}
+
+.bf-flag.bf-flag-sy {
+    background-position: -5px -4563px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-sz {
+    background-position: -5px -4584px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-tc {
+    background-position: -5px -4605px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-td {
+    background-position: -5px -4626px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-tf {
+    background-position: -5px -4647px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-tg {
+    background-position: -5px -4668px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-th {
+    background-position: -5px -4689px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-tj {
+    background-position: -5px -4710px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-tk {
+    background-position: -5px -4731px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-tl {
+    background-position: -5px -4752px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-tm {
+    background-position: -5px -4773px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-tn {
+    background-position: -5px -4794px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-to {
+    background-position: -5px -4815px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-tr {
+    background-position: -5px -4836px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-tt {
+    background-position: -5px -4857px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-tv {
+    background-position: -5px -4878px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-tw {
+    background-position: -5px -4899px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-tz {
+    background-position: -5px -4920px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-ua {
+    background-position: -5px -4941px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-ug {
+    background-position: -5px -4962px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-um {
+    background-position: -5px -4983px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-us {
+    background-position: -5px -5004px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-uy {
+    background-position: -5px -5025px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-uz {
+    background-position: -5px -5046px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-va {
+    background-position: -5px -5067px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-vc {
+    background-position: -5px -5088px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-ve {
+    background-position: -5px -5109px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-vg {
+    background-position: -5px -5130px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-vi {
+    background-position: -5px -5151px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-vn {
+    background-position: -5px -5172px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-vu {
+    background-position: -5px -5193px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-wales {
+    background-position: -5px -5214px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-wf {
+    background-position: -5px -5235px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-ws {
+    background-position: -5px -5256px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-ye {
+    background-position: -5px -5277px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-yt {
+    background-position: -5px -5298px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-za {
+    background-position: -5px -5319px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-zm {
+    background-position: -5px -5340px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-zw {
+    background-position: -5px -5361px;
+    height: 11px;
+    width: 16px
+}
+
+.bf-flag.bf-flag-xk {
+    background-position: -5px -5382px;
+    height: 11px;
+    width: 16px
+}
